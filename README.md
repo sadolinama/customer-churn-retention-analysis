@@ -1,9 +1,12 @@
 # customer-churn-retention-analysis
 Churn-Analysis
 
+
+
 Model Insights (SAS Logistic Regression)
 
 Using a logistic regression model built in SAS, key drivers of customer churn were identified. Customers with shorter tenure and higher numbers of support calls showed significantly higher churn risk. Additionally, customers on monthly contracts were more likely to churn compared to those on annual plans, while premium subscribers demonstrated stronger retention.
+
 
 Business Recommendations
 
