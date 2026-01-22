@@ -19,3 +19,14 @@ Encourage annual contract upgrades through targeted incentives to reduce churn r
 Improve early-stage onboarding to strengthen engagement within the first six months.
 
 Offer loyalty rewards to long-tenure and premium customers to increase lifetime value.
+
+
+
+
+Power BI Dashboard
+
+Interactive dashboard analyzing customer churn, tenure, and support behavior
+
+Built using DAX measures for churn rate and customer segmentation
+
+File location: powerbi/xyz_customer_churn_dashboard.pbix
