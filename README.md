@@ -2,9 +2,12 @@ Customer Churn & Retention Analysis
 
 End-to-End Analytics Project | SQL • SAS • Power BI
 
+
+
 📌 Project Overview
 
 This project analyzes customer churn behavior for XYZ Company & Co. with the objective of identifying key churn drivers, high-risk customer segments, and actionable retention strategies. The analysis combines SQL-based data exploration, SAS statistical modeling, and Power BI visualization to support data-driven business decisions.
+
 
 🛠 Tools & Technologies
 
@@ -15,6 +18,7 @@ SAS – Logistic regression modeling for churn prediction
 Power BI – Interactive dashboards and DAX-based metrics
 
 GitHub – Version control and portfolio presentation
+
 
 📊 Power BI Dashboard
 
@@ -28,12 +32,15 @@ Churn Rate Across Customer Tenure
 
 Customer segmentation using DAX measures
 
+
 📂 File location:
 
 powerbi/xyz_customer_churn_dashboard.pbix
 
 
 ⚠️ Download the .pbix file to view and interact with the dashboard in Power BI Desktop.
+
+
 
 🔍 Key Business Insights
 1️⃣ Support Calls Are a Strong Churn Driver
@@ -44,6 +51,8 @@ Indicates unresolved service issues or poor customer experience
 
 Represents an opportunity for proactive escalation and service recovery
 
+
+
 2️⃣ Early-Stage Customers Are Highest Risk
 
 Churn is most concentrated within the first six months of customer tenure
@@ -52,11 +61,15 @@ Retention improves and stabilizes as tenure increases
 
 Highlights the importance of onboarding and early engagement
 
+
+
 3️⃣ Long-Tenure Customers Show Strong Loyalty
 
 Customers with 24+ months of tenure demonstrate consistently low churn
 
 Contract commitments and loyalty incentives appear effective
+
+
 
 📐 Statistical Modeling (SAS)
 
@@ -69,6 +82,8 @@ Customer tenure
 Monthly charges
 
 Number of support calls
+
+
 
 Contract type (monthly vs. annual)
 
@@ -84,6 +99,8 @@ Premium customers demonstrate stronger retention
 
 This model supports early identification of at-risk customers and proactive retention planning.
 
+
+
 💡 Business Recommendations
 
 Based on analytical findings and model results:
@@ -98,6 +115,8 @@ Introduce retention offers before customers reach the six-month risk window
 
 Track support resolution time as a core retention KPI
 
+
+
 🎯 Business Impact
 
 This analysis provides leadership with:
@@ -108,16 +127,4 @@ Actionable insights for retention strategy
 
 A scalable framework for churn monitoring and prevention
 
-📁 Repository Structure
-customer-churn-retention-analysis/
-│
-├── data/
-│   └── xyz_customer_churn_data.csv
-├── sql/
-│   └── churn_analysis.sql
-├── sas/
-│   └── churn_model.sas
-├── powerbi/
-│   └── xyz_customer_churn_dashboard.pbix
-└── README.md
 
